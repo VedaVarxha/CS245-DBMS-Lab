@@ -1,0 +1,11 @@
+USE week12;
+DELETE FROM boats WHERE bid = (5);
+DELETE FROM boats WHERE bid = (10);
+DELETE FROM boats WHERE bid = (15);
+DELETE FROM boats WHERE bid = (20);
+DELETE FROM boats WHERE bid = (25);
+DELETE FROM boats WHERE bid = (30);
+DELETE FROM boats WHERE bid = (35);
+DELETE FROM boats WHERE bid = (40);
+DELETE FROM boats WHERE bid = (45);
+DELETE FROM boats WHERE bid = (50);
